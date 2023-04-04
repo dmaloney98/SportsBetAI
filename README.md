@@ -1,10 +1,10 @@
-# SportsBetAI
+SportsBetAI
 
-## Description
+Description
 
 SportsBetAI is a sports betting prediction system that uses machine learning techniques to predict the outcomes of sports games. The system collects historical data on game results, player statistics, team standings, and game schedules to train its prediction model.
 
-## Requirements
+Requirements
 
 - Python 3.6 or higher
 - pandas
@@ -12,7 +12,7 @@ SportsBetAI is a sports betting prediction system that uses machine learning tec
 - numpy
 - Any API or data source providing sports data (e.g., MySportsFeeds, TheSportsDB, etc.)
 
-## Installation
+Installation
 
 1. Clone the repository or download the project files:
 
@@ -27,7 +27,7 @@ cd SportsBetAI
 3. Install the required packages using pip:
 
 
-## Usage
+Usage
 
 1. Run `data_collection.py` to collect and store sports data in JSON format:
 
@@ -44,10 +44,12 @@ python3 data_preprocessing.py
 4. Run `model.py` to train the prediction model and evaluate its performance:
 
 
-## Contributing
+Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue on GitHub.
 
-## License
+License
 
 This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+-------
